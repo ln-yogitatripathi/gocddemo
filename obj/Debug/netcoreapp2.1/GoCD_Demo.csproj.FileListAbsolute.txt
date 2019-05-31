@@ -1,0 +1,11 @@
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\bin\Debug\netcoreapp2.1\GoCD_Demo.deps.json
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\bin\Debug\netcoreapp2.1\GoCD_Demo.runtimeconfig.json
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\bin\Debug\netcoreapp2.1\GoCD_Demo.runtimeconfig.dev.json
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\bin\Debug\netcoreapp2.1\GoCD_Demo.dll
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\bin\Debug\netcoreapp2.1\GoCD_Demo.pdb
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\obj\Debug\netcoreapp2.1\GoCD_Demo.csprojAssemblyReference.cache
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\obj\Debug\netcoreapp2.1\GoCD_Demo.csproj.CoreCompileInputs.cache
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\obj\Debug\netcoreapp2.1\GoCD_Demo.AssemblyInfoInputs.cache
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\obj\Debug\netcoreapp2.1\GoCD_Demo.AssemblyInfo.cs
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\obj\Debug\netcoreapp2.1\GoCD_Demo.dll
+C:\Users\tripatyx\source\repos\GoCD_Demo\GoCD_Demo\obj\Debug\netcoreapp2.1\GoCD_Demo.pdb
